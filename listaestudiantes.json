@@ -1,0 +1,90 @@
+[
+    {
+        "cedula1": "1724567321",
+        "nombreyapellido1": "Miguel Almirón",
+        "direccion1": "Calle 24, Av. 37",
+        "numerotlf1": "0984121480",
+        "email1": "miguelalmiron@outlook.com"
+
+    }, 
+
+    {
+        "cedula1": "1316720917",
+        "nombreyapellido1": "Carlota Miramón",
+        "direccion1": "Calle Los Rubiales",
+        "numerotlf1": "0991456711",
+        "email1": "carlotamir_1@gmail.com"
+    
+    }, 
+
+    {
+        "cedula1": "1309119004",
+        "nombreyapellido1": "Marcelo Muniaín",
+        "direccion1": "Av. 12, Calle 21",
+        "numerotlf1": "0992130895",
+        "email1": "marcelito_mun@yahoo.com"
+ 
+    },
+
+    {
+        "cedula1": "1721468932",
+        "nombreyapellido1": "Jesse Rosas",
+        "direccion1": "Calle 307, Ed. Diesel",
+        "numerotlf1": "0964891231",
+        "email1": "jessepinkman@gmail.com"
+    
+    },
+
+    {
+        "cedula1": "1306311829",
+        "nombreyapellido1": "Walter Blanco",
+        "direccion1": "Alburquerque N 17, Av. 56",
+        "numerotlf1": "0934090128",
+        "email1": "itsheisenberg@outlook.com"
+        
+    },
+
+    {
+        "cedula1": "0962675821",
+        "nombreyapellido1": "James Bonavente",
+        "direccion1": "Av. 24, Calle 21",
+        "numerotlf1": "0989028782",
+        "email1": "jbonavente@gmail.com"
+       
+    },
+
+    {
+        "cedula1": "1725039402",
+        "nombreyapellido1": "Clay Johnson",
+        "direccion1": "Calle Simón Bolívar",
+        "numerotlf1": "0994102335",
+        "email1": "clayjohnson12@gmail.com"
+       
+    }, 
+
+    {
+        "cedula1": "1303789045",
+        "nombreyapellido1": "Max Bergoglio",
+        "direccion1": "Av. 12 de diciembre",
+        "numerotlf1": "0991230984",
+        "email1": "maxbergoglio@outlook.com"
+    
+    },
+
+    {
+        "cedula1": "0957129822",
+        "nombreyapellido1": "Jaime Merhi",
+        "direccion1": "Calle Ferrari, Av. 24",
+        "numerotlf1": "0998103399",
+        "email1": "jmerhi_21@gmail.com"
+     
+    },
+
+    {
+        "cedula1": "1301567002",
+        "nombreyapellido1": "Beatriz Bermúdez",
+        "direccion1": "Calle Las Acacias",
+        "numerotlf1": "0989345561",
+        "email1": "beabermudez@yahoo.com"
+    }
+]
